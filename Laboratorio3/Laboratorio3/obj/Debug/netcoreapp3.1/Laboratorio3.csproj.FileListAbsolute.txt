@@ -37,3 +37,4 @@ C:\Users\david\OneDrive\UCR\Semestre VI\Ingeniería de Software\Laboratorio 3\La
 C:\Users\david\OneDrive\UCR\Semestre VI\Ingeniería de Software\Laboratorio 3\Laboratorio3-IS\Laboratorio3\Laboratorio3\obj\Debug\netcoreapp3.1\Laboratorio3.genruntimeconfig.cache
 C:\Users\david\OneDrive\UCR\Semestre VI\Ingeniería de Software\Laboratorio 3\Laboratorio3-IS\Laboratorio3\Laboratorio3\obj\Debug\netcoreapp3.1\Laboratorio3.csproj.CopyComplete
 C:\Users\david\OneDrive\UCR\Semestre VI\Ingeniería de Software\Laboratorio 3\Laboratorio3-IS\Laboratorio3\Laboratorio3\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Index.cshtml.g.cs
+C:\Users\david\OneDrive\UCR\Semestre VI\Ingeniería de Software\Laboratorio 3\Laboratorio3-IS\Laboratorio3\Laboratorio3\obj\Debug\netcoreapp3.1\Razor\Views\Song\Index.cshtml.g.cs
